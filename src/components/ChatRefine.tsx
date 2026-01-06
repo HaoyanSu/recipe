@@ -1,5 +1,5 @@
 import { useState, useRef, useEffect } from 'react';
-import { Send, MessageCircle, X, ChevronDown, Sparkles } from 'lucide-react';
+import { Send, MessageCircle, ChevronDown, Sparkles } from 'lucide-react';
 import { ChatMessage } from '../types';
 
 interface ChatRefineProps {
